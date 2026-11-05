@@ -1,1 +1,11 @@
-{"lastUpdated":"","images":{},"scan_status":{}}
+{
+  "lastUpdated": "2026-11-05T16:38:51Z",
+  "images": {
+    "liquibase/liquibase": [
+      "latest"
+    ]
+  },
+  "scan_status": {
+    "liquibase/liquibase:latest": "success"
+  }
+}
